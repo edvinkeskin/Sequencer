@@ -1,4 +1,4 @@
-#Sequencer Project
+# Sequencer Project
 ## A Java Application for creating all permutations of provided input
 **Purpose of this Project:**
 
