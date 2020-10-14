@@ -3,7 +3,8 @@
 **Purpose of this Project:**
 
 Provide the list of all permutations of any consumed input (can be a combination of letters and numbers!)
-##Instructions for User
+
+## Instructions for User
 - Download and open file in an IDE,
 run Main class in src,
 
